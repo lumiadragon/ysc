@@ -1,5 +1,6 @@
 央视频道,#genre#
 
+https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 
 CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 CCTV世界地理,http://36.129.204.117:9003//hls/78/index.m3u8
