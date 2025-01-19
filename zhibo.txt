@@ -296,10 +296,6 @@ CCTV17,http://146.235.213.45:35455/gaoma/cctv17.m3u8
 
 河南｜叶县,http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8
 河南｜叶县,http://live.dxhmt.cn:9081/tv/10422-1.m3u8
-河南｜卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225988/index.m3u8
-河南｜卫视,http://mywlkj.ddns.net:754/tv/qqcloud.php?id=31
-河南｜梨园,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
-河南｜梨园,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
 河南｜临颍综合,http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
 河南｜义马新闻综合,http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8
 河南｜光山综合,http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8
